@@ -1,0 +1,16 @@
+{
+    "name": "color-change",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d src"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://DeveloperOmarFaruk.github.io/color-change",
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    }
+}
